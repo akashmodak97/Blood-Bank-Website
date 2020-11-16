@@ -19,7 +19,7 @@ Link - http://bloodbassignment.000webhostapp.com/
 <b>Xampp</b> must be installed in the system.
 
 ## Configure
-Duplicate the database given in <b>database</b> folder, and run on localhost.
+Duplicate the database given in the <b>database</b> folder, and run on localhost.
 
 ## Contribute
 This repo is open for contribution
