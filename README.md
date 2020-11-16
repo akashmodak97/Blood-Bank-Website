@@ -7,7 +7,7 @@ Link - http://bloodbassignment.000webhostapp.com/
 ## Tech Stack
 - HTML5
 - CSS3
-- Boostrap 5
+- Boostrap 4
 - JavaScript
 - JQuery
 - PHP
