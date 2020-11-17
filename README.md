@@ -1,5 +1,5 @@
 # Blood-Bank-Website
-This is an assignment given by Internshala.
+This is an assignment given by <b>Internshala</b>.
 
 ## Demo
 Link - http://bloodbassignment.000webhostapp.com/
